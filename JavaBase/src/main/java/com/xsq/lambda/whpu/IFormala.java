@@ -1,4 +1,4 @@
-package src.com.xsq.lambda.whpu;
+package com.xsq.lambda.whpu;
 
 public interface IFormala {
     static double getRoot1(int a) {

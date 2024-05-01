@@ -1,4 +1,4 @@
-package src.com.xsq.lambda.whpu;
+package com.xsq.lambda.whpu;
 
 public class AnonimousImpl {   //annoimous--匿名的
     public static void main(String[] args) {

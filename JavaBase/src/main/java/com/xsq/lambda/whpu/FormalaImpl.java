@@ -1,4 +1,4 @@
-package src.com.xsq.lambda.whpu;
+package com.xsq.lambda.whpu;
 
 public class FormalaImpl implements IFormala {
     //1.显式实现
