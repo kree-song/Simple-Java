@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.String;
+package com.xsq.leetcode.questionBank.String;
 
 /*
  * 最长回文子串：找到 s 中最长的回文子串

@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.simplebook.Array;
+package com.xsq.leetcode.simplebook.Array;
 
 import java.util.ArrayList;
 import java.util.Arrays;

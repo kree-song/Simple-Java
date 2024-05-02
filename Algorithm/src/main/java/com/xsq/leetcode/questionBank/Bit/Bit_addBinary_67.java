@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.Bit;
+package com.xsq.leetcode.questionBank.Bit;
 
 /*
  * 二进制求和

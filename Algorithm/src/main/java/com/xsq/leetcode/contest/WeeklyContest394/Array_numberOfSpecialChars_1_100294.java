@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.contest.WeeklyContest394;
+package com.xsq.leetcode.contest.WeeklyContest394;
 
 import java.util.Arrays;
 

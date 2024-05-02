@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.Design;
+package com.xsq.leetcode.questionBank.Design;
 
 import java.util.Iterator;
 import java.util.LinkedList;

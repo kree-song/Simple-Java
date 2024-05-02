@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.Tree;
+package com.xsq.leetcode.questionBank.Tree;
 
 
 import com.xsq.leetcode.Node.TreeNode;

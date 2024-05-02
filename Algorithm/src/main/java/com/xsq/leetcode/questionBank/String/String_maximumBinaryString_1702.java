@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.String;
+package com.xsq.leetcode.questionBank.String;
 
 /**
  * 1702.修改后的最大二进制字符串

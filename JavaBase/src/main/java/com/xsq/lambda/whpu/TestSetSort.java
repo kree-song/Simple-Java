@@ -1,4 +1,4 @@
-package src.com.xsq.lambda.whpu;
+package com.xsq.lambda.whpu;
 
 import java.util.Arrays;
 import java.util.Collections;

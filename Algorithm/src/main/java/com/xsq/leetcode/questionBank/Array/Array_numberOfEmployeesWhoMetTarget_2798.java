@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.Array;
+package com.xsq.leetcode.questionBank.Array;
 
 /**
  * 2798.满足目标工作时长的员工数目

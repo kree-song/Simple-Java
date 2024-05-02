@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.Array;
+package com.xsq.leetcode.questionBank.Array;
 
 /*
  * 买卖股票的最佳时机

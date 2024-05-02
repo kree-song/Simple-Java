@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.Array;
+package com.xsq.leetcode.questionBank.Array;
 
 /**
  * 2529.正整数和负整数的最大计数

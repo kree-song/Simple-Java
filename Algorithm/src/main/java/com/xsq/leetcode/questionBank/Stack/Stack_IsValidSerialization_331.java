@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.Stack;
+package com.xsq.leetcode.questionBank.Stack;
 
 import java.util.Deque;
 import java.util.LinkedList;

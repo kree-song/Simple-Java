@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.simplebook.Tree;
+package com.xsq.leetcode.simplebook.Tree;
 
 import com.xsq.leetcode.Node.TreeNode;
 

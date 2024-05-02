@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.LinkedList;
+package com.xsq.leetcode.questionBank.LinkedList;
 
 import com.xsq.leetcode.Node.ListNode;
 

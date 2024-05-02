@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.simplebook.LinkedList;
+package com.xsq.leetcode.simplebook.LinkedList;
 
 import com.xsq.leetcode.Node.ListNode;
 

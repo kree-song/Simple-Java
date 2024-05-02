@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.Bit;
+package com.xsq.leetcode.questionBank.Bit;
 
 import java.util.HashMap;
 import java.util.concurrent.atomic.AtomicInteger;

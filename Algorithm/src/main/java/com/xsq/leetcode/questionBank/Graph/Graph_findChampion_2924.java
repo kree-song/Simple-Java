@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.Graph;
+package com.xsq.leetcode.questionBank.Graph;
 
 /**
  * 2924.找到冠军 II

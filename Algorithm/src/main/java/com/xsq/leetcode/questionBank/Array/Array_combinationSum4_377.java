@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.Array;
+package com.xsq.leetcode.questionBank.Array;
 
 /**
  * 377(!).组合总和 Ⅳ

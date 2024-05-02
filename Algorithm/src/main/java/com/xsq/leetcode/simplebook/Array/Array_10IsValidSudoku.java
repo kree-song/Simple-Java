@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.simplebook.Array;
+package com.xsq.leetcode.simplebook.Array;
 
 /*
  * 有效的数独

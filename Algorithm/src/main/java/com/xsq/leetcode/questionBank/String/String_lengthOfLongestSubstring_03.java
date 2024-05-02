@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.String;
+package com.xsq.leetcode.questionBank.String;
 
 import java.util.HashSet;
 

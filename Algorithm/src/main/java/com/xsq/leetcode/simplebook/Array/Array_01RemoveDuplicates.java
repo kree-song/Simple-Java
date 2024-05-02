@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.simplebook.Array;
+package com.xsq.leetcode.simplebook.Array;
 
 /*
  * 删除排序数组中的重复项

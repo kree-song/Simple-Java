@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.Queue;
+package com.xsq.leetcode.questionBank.Queue;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

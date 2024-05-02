@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.Tree;
+package com.xsq.leetcode.questionBank.Tree;
 
 import java.util.ArrayList;
 import java.util.Arrays;

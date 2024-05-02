@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.simplebook.String;
+package com.xsq.leetcode.simplebook.String;
 
 /*
  * 整数翻转

@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.Math;
+package com.xsq.leetcode.questionBank.Math;
 
 /**
  * 69.x的平方根

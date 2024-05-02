@@ -1,4 +1,4 @@
-package src.com.xsq.leetcode.questionBank.Map;
+package com.xsq.leetcode.questionBank.Map;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
