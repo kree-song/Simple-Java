@@ -10,6 +10,7 @@ import java.util.Queue;
 public class Traversal {
     /**
      * 层序遍历
+     * 树的四种遍历时空复杂度均为O(n)
      */
     List<Integer> levelOrder(TreeNode root) {
         // 初始化队列，加入根节点
@@ -28,7 +29,9 @@ public class Traversal {
         return list;
     }
 
-    /* 前序遍历 */
+    /**
+     * 前序遍历
+     */
     void preOrder(TreeNode root) {
         if (root == null)
             return;
@@ -38,7 +41,9 @@ public class Traversal {
         preOrder(root.right);
     }
 
-    /* 中序遍历 */
+    /**
+     * 中序遍历
+     */
     void inOrder(TreeNode root) {
         if (root == null)
             return;
@@ -48,7 +53,9 @@ public class Traversal {
         inOrder(root.right);
     }
 
-    /* 后序遍历 */
+    /**
+     * 后序遍历
+     */
     void postOrder(TreeNode root) {
         if (root == null)
             return;
