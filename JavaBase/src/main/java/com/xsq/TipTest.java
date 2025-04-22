@@ -23,9 +23,11 @@ public class TipTest {
 //        List<Integer> list = Arrays.asList(1, 2);
 //        testList(list);
 
-        Map<Long, Boolean> map = new HashMap<>();
-        map.put(1L, true);
-        System.out.println(map.get(2L));
+//        Map<Long, Boolean> map = new HashMap<>();
+//        map.put(1L, true);
+//        System.out.println(map.get(2L));
+
+        num();
     }
 
 
@@ -114,4 +116,12 @@ public class TipTest {
         return lists;
     }
 
+    /*
+     * float、double是用二进制表示十进制，会有精度损失
+     * BigDecimal底层用数组实现，整数位小数位分开存储，避免浮点数转化过程中的精度损失
+     */
+    public static void num() {
+        System.out.println(0.1 * 3 == 0.3);
+        System.out.println(0.1 * 3);
+    }
 }

@@ -3,7 +3,7 @@ package com.xsq.leetcode.questionBank.LinkedList;
 import com.xsq.leetcode.Node.ListNode;
 
 /*
- *实现一种算法，找出单向链表中倒数第 k 个节点。返回该节点的值。
+ * 实现一种算法，找出单向链表中倒数第 k 个节点。返回该节点的值。
  * */
 public class LinkedList_kthToLast_0202 {
     int count;
