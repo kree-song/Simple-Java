@@ -5,7 +5,7 @@ import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.ForkJoinTask;
 import java.util.concurrent.RecursiveTask;
 
-/*
+/**
  * 生成一个计算任务，负责计算1+2+3+4
  */
 public class ForkJoinTest extends RecursiveTask<Integer> {
