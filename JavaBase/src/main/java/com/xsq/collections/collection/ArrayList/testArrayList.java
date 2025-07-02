@@ -1,10 +1,17 @@
 package com.xsq.collections.collection.ArrayList;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.stream.Stream;
 
 public class testArrayList {
     public static void main(String[] args) {
+//        test();
+        test2();
+    }
+
+    private static void test1() {
         ArrayList<String> arrayList = new ArrayList<>();
         arrayList.add("aaa");
         arrayList.add("bbb");
@@ -27,5 +34,13 @@ public class testArrayList {
         c.forEach(a -> {
             System.out.println(a);
         });
+    }
+
+    private static void test2() {
+//        List<String> list = Arrays.asList("aaa", "bbb", "ccc", "ddd");
+        List<String> list = new ArrayList<>(Arrays.asList("aaa", "bbb", "ccc", "ddd"));
+//        list.add("eee");
+        list.remove(0);
+        System.out.println(list);
     }
 }
